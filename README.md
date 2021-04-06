@@ -1,5 +1,7 @@
 # Cronos
 
+<img src="https://github.com/FelipeNFL/Cronos/blob/main/Logo/website_logo_transparent_background.png" width="245" height="307" align="center" />
+
 O Cronos é um sistema de validação de pacientes em filas de esperas de cirurgias eletivas em hospitais.
 
 ### Contexto
@@ -20,18 +22,18 @@ Não há padrões de gestão de filas cirúrgicas entre as instituições brasil
 
 Além da falta de visibilidade do sistema quanto a situação das filas, o paciente também não tem ideia do que acontece na fila e quando será atendido.
 
-## O que já está pronto
+# O que já está pronto
 
 Não tive tempo hábil para desenvolver o aplicativo em si. Mas no repositório há um protótipos do aplicativo do paciente e do hospital, de acordo com os requisitos levantados.
 
-## O que precisa ser feito
+# O que precisa ser feito
 
 A ideia precisa ser efetivamente desenvolvida, a fim de estar disponível para os hospitais implementarem, e manterem, aos poucos, as filas mais organizadas. Esse projeto pode ser uma ponte para que futuramente as filas do país sejam integradas, melhorando a transparência e a governança.
 
-## Contribuição
+# Contribuição
 
 PRs serão muito bem-vindas!
 
-## Licença
+# Licença
 
 Por ser tratar de uma contribuição voluntária para a saúde brasileira, todo o conteúdo desse estudo está licenciado sob a [GPL v3](https://www.gnu.org/licenses/quick-guide-gplv3.pt-br.html). Se você é membro da iniciativa privada e deseja contribuir, sinta-se livre. Mas o projeto é um presente para o SUS e precisa se manter assim.
