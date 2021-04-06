@@ -1,5 +1,7 @@
 # Cronos
 
+![Logo Cronos](https://github.com/FelipeNFL/Cronos/blob/main/Logo/website_logo_solid_background.png)
+
 O Cronos é um sistema de validação de pacientes em filas de esperas de cirurgias eletivas em hospitais.
 
 ### Contexto
