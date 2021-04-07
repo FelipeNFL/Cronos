@@ -12,7 +12,7 @@ Indo além do senso comum, o Cronos é fruto de um trabalho de árdua pesquisa r
 
 ### Metodologia e escopo
 
-O processo de pesquisa foi realizado através do Design Thinking, com o qual foi possível elencar uma série de pontos críticos nas diferentes esferas do sistema. Foram observados a dificuldade em agregar os difusos dados a fim de obter-se um panorama nacional sobre a fila, passando conflitos de informações e dados entre estados e municípios e desembocando em dificuldades operacionais dos próprios serviços de saúde. Uma vez que a metodologia aconselha a convergência em um escopo menor, optou-se pela busca em melhorar os processos do próprio estabelecimento de saúde, pois este parece ser crível de informações sobre filas no país.
+O processo de pesquisa foi realizado através do Design Thinking, com o qual foi possível elencar uma série de pontos críticos nas diferentes esferas do sistema. Foram observados a dificuldade em agregar os difusos dados a fim de obter-se um panorama nacional sobre a fila, passando por conflitos de informações e dados entre estados e municípios e desembocando em dificuldades operacionais dos próprios serviços de saúde. Uma vez que o Design Thinking aconselha a convergência em um escopo menor, optou-se pela busca em melhorar os processos do próprio estabelecimento de saúde, pois este parece ser a principal fonte de informações sobre filas no país.
 
 ### O cenário do hospital
 
